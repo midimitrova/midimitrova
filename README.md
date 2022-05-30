@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @midimitrova
+- 👀 I’m interested in Python
+- 🌱 I’m currently learning Python
+- 💞️ I’m looking to collaborate on Python projects.
+- 📫 How to reach me mariyapopova95@gmail.com
