@@ -8,4 +8,8 @@
 ---
 
 ### :hammer_and_wrench: Languages and Tools I know:
-<img src="https://github.com/devicons/devicon/blob/master/icons/python/python-plain.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
+<img src="https://github.com/devicons/devicon/blob/v2.14.0/icons/python/python-original.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
+<img src="https://github.com/devicons/devicon/blob/v2.14.0/icons/pycharm/pycharm-original.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-plain.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
+
+
