@@ -15,4 +15,4 @@
 
 ### :fire: My Stats :
 
-https://github-readme-streak-stats.herokuapp.com/?user=your-midimitrova
+https://github-readme-streak-stats.herokuapp.com/?user=midimitrova
