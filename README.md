@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @midimitrova
+- 👋 Hi, I am Maria Dimitrova
 - 🌱 I’m currently learning Python at SoftUni
 - 💞️ I’m looking to collaborate on Python projects
 - 📫 How to reach me mariyapopova95@gmail.com
