@@ -1,4 +1,7 @@
-- 👋 Hi, I am Maria
+## Hi there 👋
+
+My name is Maria.
+
 - 🌱 I’m currently learning Python at SoftUni
 - 💞️ I’m looking to collaborate on Python projects
 - 📫 How to reach me mariyapopova95@gmail.com
