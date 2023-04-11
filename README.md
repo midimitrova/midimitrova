@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-My name is Maria.
+# My name is Maria.
 
 - 🌱 I’m currently learning Python at SoftUni
 - 💞️ I’m looking to collaborate on Python projects
